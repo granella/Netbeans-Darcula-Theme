@@ -24,3 +24,6 @@ The Darcula theme is a color scheme for NetBeans IDE in conjunction with the **D
     the editor in order for the imported settings to be effective. Just confirm.
 
 5.  Enjoy (if everything is ok) or complain (if something wrong happened) =)
+
+## Preview
+![preview](https://pbs.twimg.com/media/CZBkGSxUwAA3JeY.png:large)
