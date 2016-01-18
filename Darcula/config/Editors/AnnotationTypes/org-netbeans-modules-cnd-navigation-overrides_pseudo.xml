@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE type PUBLIC "-//NetBeans//DTD annotation type 1.0//EN" "http://www.netbeans.org/dtds/annotation-type-1_0.dtd">
+<type browseable="false" description_key="LAB_OverridesAnnotation" foreground="0xffff00" glyph="nbresloc:/org/netbeans/modules/cnd/navigation/resources/overrides/overrides-pseudo.png" inherit_foreground_color="true" localizing_bundle="org.netbeans.modules.cnd.navigation.overrides.Bundle" name="org-netbeans-modules-cnd-navigation-overrides_pseudo" priority="5" severity="none" type="line" use_custom_sidebar_color="false" use_highlight_color="false" use_wave_underline_color="false" visible="true">
+    <combination tiptext_key="LAB_OverridesAnnotation">
+        <combine absorb_all="false" annotationtype="org-netbeans-modules-cnd-navigation-overrides" optional="false"/>
+        <combine absorb_all="false" annotationtype="org-netbeans-modules-cnd-navigation-overrides_pseudo" optional="false"/>
+    </combination>
+</type>

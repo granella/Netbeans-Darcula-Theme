@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="identifier" name="identifier"/>
+    <fontcolor default="string" name="string"/>
+    <fontcolor foreColor="ff009b00" name="preprocessor"/>
+    <fontcolor default="preprocessor-keyword-directive" name="preprocessor-keyword"/>
+    <fontcolor default="keyword" name="keyword-operator"/>
+    <fontcolor default="separator" name="separator"/>
+    <fontcolor default="operator" name="operator"/>
+    <fontcolor default="keyword" name="keyword-directive"/>
+    <fontcolor default="keyword" name="literal"/>
+    <fontcolor default="number" name="number"/>
+    <fontcolor default="char" name="character"/>
+    <fontcolor default="string" name="preprocessor-system-include-literal"/>
+    <fontcolor default="string" name="preprocessor-user-include-literal"/>
+    <fontcolor default="identifier" name="preprocessor-identifier"/>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor default="string" name="string-escape">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="string" name="string-escape-invalid" waveUnderlined="ffce7b00">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="keyword" name="keyword"/>
+    <fontcolor default="whitespace" name="whitespace"/>
+    <fontcolor default="preprocessor" name="preprocessor-keyword-directive"/>
+    <fontcolor default="error" name="errors"/>
+</fontscolors>
