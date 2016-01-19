@@ -4,13 +4,13 @@
     <fontcolor bgColor="ffe0e0e0" name="filename">
         <font style="bold+italic"/>
     </fontcolor>
-    <fontcolor foreColor="red" name="removed"/>
-    <fontcolor foreColor="blue" name="added"/>
+    <fontcolor foreColor="ffd5756c" name="removed"/>
+    <fontcolor foreColor="ff629755" name="added"/>
     <fontcolor name="plain"/>
-    <fontcolor bgColor="ffe0e0e0" name="header">
+    <fontcolor name="header">
         <font style="bold"/>
     </fontcolor>
-    <fontcolor bgColor="ffe0e0e0" name="index">
+    <fontcolor name="index">
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="error" name="error"/>
