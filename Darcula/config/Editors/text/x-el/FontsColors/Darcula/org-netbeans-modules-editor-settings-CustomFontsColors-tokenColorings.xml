@@ -2,7 +2,7 @@
 <!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
 <fontscolors>
     <fontcolor default="identifier" name="identifier"/>
-    <fontcolor default="default" foreColor="blue" name="tag-lib-prefix">
+    <fontcolor default="default" foreColor="ffcc7832" name="tag-lib-prefix">
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="default" name="eol"/>
