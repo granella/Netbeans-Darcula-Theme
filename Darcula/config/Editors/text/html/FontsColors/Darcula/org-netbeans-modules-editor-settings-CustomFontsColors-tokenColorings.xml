@@ -11,7 +11,7 @@
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="error" name="error"/>
-    <fontcolor bgColor="ffe3f2e1" default="default" name="javascript-embedded"/>
+    <fontcolor default="default" name="javascript-embedded"/>
     <fontcolor default="argument" name="operator"/>
     <fontcolor default="entity-reference" foreColor="ff6d9cbe" name="character">
         <font style="plain"/>
